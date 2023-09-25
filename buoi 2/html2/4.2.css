@@ -1,0 +1,59 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    position: relative;
+}
+.c1{
+    background-color:#32CD32;
+    display: flex;
+    height: 4em;
+    line-height:4em; ;
+    align-items: center;
+}
+.a1{
+    width: 120px;
+    height: 4em;
+    background-size: cover;
+    background-image: url('tải xuống24h.png');
+    border-right: 1px inset ;
+}
+.a2{
+    width: 120px;
+    height: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px inset ;
+    font-size: small;
+}
+.a3{
+    width: 100px;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px inset ;
+    margin: 2px;
+    font-size: small;
+}
+.a4{
+    width: 70px;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+}
+.c2{
+    width: 300px;
+    height:28em;
+    background-color: yellowgreen;
+    position: absolute;
+    left: 344px;
+}
